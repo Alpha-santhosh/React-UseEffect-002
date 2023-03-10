@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-UseEffect-002/static/css/main.3ec8f407.css",
+    "main.js": "/React-UseEffect-002/static/js/main.d9aecc89.js",
+    "index.html": "/React-UseEffect-002/index.html",
+    "main.3ec8f407.css.map": "/React-UseEffect-002/static/css/main.3ec8f407.css.map",
+    "main.d9aecc89.js.map": "/React-UseEffect-002/static/js/main.d9aecc89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec8f407.css",
+    "static/js/main.d9aecc89.js"
+  ]
+}
